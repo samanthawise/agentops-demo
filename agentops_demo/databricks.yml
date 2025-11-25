@@ -1,4 +1,4 @@
-# The name of the bundle. run `databricks bundle schema` to see the full bundle settings schema.
+# The name of the bundle. run `databricks bundle schema` to see the full bundle settings schema. test
 bundle:
   name: agentops-demo
 
