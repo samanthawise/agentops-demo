@@ -1,6 +1,6 @@
 pytest>=7.1.2
 langgraph==0.4.8
-mlflow==3.1.0
+mlflow==3.6.0
 databricks-sdk==0.57.0
 langchain==0.3.26
 unitycatalog-langchain[databricks]==0.2.0
